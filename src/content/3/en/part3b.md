@@ -80,7 +80,7 @@ You can read more about CORS from [Mozilla's page](https://developer.mozilla.org
 
 The setup of our app now looks as follows:
 
-![diagram of react app and browser](../../images/3/100_25.png)
+![Uploading fullstack app structure modified.png…]()
 
 The react app running in the browser now fetches the data from node/express-server that runs in localhost:3001.
 
